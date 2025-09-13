@@ -83,3 +83,6 @@ git clone https://github.com/UchithmaSenevirathne/Cloud-Deployment.git
 3. Execute the Spring Boot application:
 
 4. Open your browser and navigate to `http://localhost:8081`.
+
+## 📄 License Information
+This project is distributed under the [MIT License](LICENSE).. 
