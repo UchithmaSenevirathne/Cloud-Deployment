@@ -1,5 +1,9 @@
 # Deployment in GCP
 
+### Uchithma Senevirathne
+### 2301682061
+### uchithma@gmail.com
+
 ## 📌 Project Overview
 This repository contains my assignment for Enterprise Cloud Architecture, demonstrating the deployment of a Spring Boot application with a MySQL database hosted on Google Cloud SQL.
 
